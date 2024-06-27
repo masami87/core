@@ -4,6 +4,6 @@
 
 ## File
 
-- src/types/ty.rs:
+- src/types/ty.rs: SolType trait 用来表示 rust 里的 solidity 类型
 - src/abi/token.rs: Tokens are an intermediate state between ABI-encoded blobs, and Rust types.
-- src/abi/encoder.rs: token如何编码成二进制表示
+- src/abi/encoder.rs: token 如何编码成二进制表示
